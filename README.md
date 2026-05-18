@@ -3,7 +3,7 @@
 repositorio oficial de la asignatura **Aplicaciones web y Moviles**
 
 
-##Descripcion 
+## Descripcion 
 En esta asignatura los estudiantes desarrollaran habilidades para el diseño y construccion de aplicaciones web
 El enfoque de la materia esta basada en: 
 
