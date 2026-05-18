@@ -8,7 +8,7 @@ En esta asignatura los estudiantes desarrollaran habilidades para el diseño y c
 El enfoque de la materia esta basada en: 
 
 - Desarrollo practico de software
-- -Construccion progresiva de aplicaciones reales
+- Construccion progresiva de aplicaciones reales
 - trabajo colaborativo y resolucion de problema
 
 ## Objetivos de la asignatura
